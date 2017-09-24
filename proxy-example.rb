@@ -1,5 +1,5 @@
 # Ruby proxy example
-# http://www.geosurf.com/resources/residential-ips-integration-guide
+# https://www.geosurf.com/resources/residential-ips-integration-guide
 
 require "uri"
 require 'net/http'
